@@ -1,0 +1,18 @@
+{
+ "n_train":63660.0,
+ "n_test":29443.0,
+ "train_dup_files":15.0,
+ "test_dup_files":62.0,
+ "test_in_train_dup":0.0,
+ "conflicting_label_dups":0.0,
+ "train_min_side":4.0,
+ "test_min_side":8.0,
+ "train_max_side":2219.0,
+ "test_max_side":1978.0,
+ "train_nonsquare_frac":0.3448005027,
+ "test_nonsquare_frac":0.6715008661,
+ "train_tiny_lt24":1290.0,
+ "test_tiny_lt24":648.0,
+ "blur_p5_laplace_var":16.3460102081,
+ "blur_median_laplace_var":388.2290649414
+}
